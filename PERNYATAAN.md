@@ -12,4 +12,4 @@ Yang membuat pernyataan,
 
 (( tanda tangan anda yang telah di scan ))
 
-(( Fabiansyah Cahyo Kuncoro Pradipta ))
+Fabiansyah Cahyo Kuncoro Pradipta
